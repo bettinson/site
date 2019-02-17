@@ -6,7 +6,7 @@ title: Introducing Progression
 
 This is a big day in the Ruby open source community. Some may reflect back on this day and wonder which had more impact: Ruby on Rails, or Progression?
 
-Just kidding. Progression is a simple Ruby progress bar I wrote because I thought it would be an interesting challenge to publish a non-trivial RubyGem. You can learn more [here](http://mattbettinson.com/progression/). 
+Just kidding. Progression is a simple Ruby progress bar I wrote because I thought it would be an interesting challenge to publish a non-trivial RubyGem. You can learn more [here](/progression/). 
 
 #### Publishing my first gem
 Green-fielding a project is enjoyable because you get to make every decision. Working solo was mildly intoxicating as well; I had nobody to get mad at me if I force-pushed to master. Both starting a new project from scratch and being the sole maintainer were nice changes of pace from my day job. I also found publishing the gem itself to be a very pleasant process. 
