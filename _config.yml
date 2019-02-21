@@ -34,7 +34,7 @@ nav:
  - name: "About"
    link: "/about/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/Matt Bettinson Resume.pdf"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
