@@ -4,7 +4,7 @@ title: Hi, I'm Matt Bettinson.
 permalink: /about/
 ---
 
-I'm a Canadian developer working at [Rietta](https://rietta.com/) writing Ruby on Rails. My app [PicText](https://) was on Apple's App Store. I wrote the app the Brooklyn Nets use to plan courtside plays. I like to write code and words, make music, take photos.
+I'm a Canadian developer working at [Rietta](https://rietta.com/) writing Ruby on Rails. My app [PicText](https://github.com/bettinson/pic-text) was on Apple's App Store. I wrote the app the Brooklyn Nets use to plan courtside plays. I like to write code and words, make music, take photos.
 
 You can mostly find me on [Github](http://github.com/bettinson). Get in touch via [email](mailto:mattbettinson@gmail.com).
 
