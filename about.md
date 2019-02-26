@@ -48,7 +48,7 @@ BA - General Computing Queen’s University (2014-2017)
 ### PicText - A Picture to Text Convertor
 - On app store, programmed in Swift, over 600 downloads.
 - Created to send picture messages over an SMS plan for free by encoding images into binary picture data that can be copied to the messages app.
-	- Source: https://github.com/bettinson/pic-text
+	- Source: [https://github.com/bettinson/pic-text](https://github.com/bettinson/pic-text)
 
 ## Extracurriculars
 ### Queen’s Hack Nights, 2014-2015
@@ -56,7 +56,7 @@ BA - General Computing Queen’s University (2014-2017)
 
 ### FRC Robotics for 4 years, 2010-2014
 - Specialized in image recognition code to find targets autonomously.
--	Source: https://github.com/TrojanRobotics/Season2014
+-	[Source](https://github.com/TrojanRobotics/Season2014)
 - Mentored freshmen and sophomore students in programming and robotics
 
 ## Languages
