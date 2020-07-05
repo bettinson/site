@@ -16,7 +16,7 @@
 title: Matt Bettinson
 email: mattbettinson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a Canadian developer working at Rietta writing Ruby on Rails.
+  I'm a Canadian developer working at Connected.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mattbettinson.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattbettinson

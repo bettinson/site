@@ -2,9 +2,11 @@
   color-scheme: light dark;
 }
 
-body {
+.wrapper {
   color: var(--color);
   background-color: var(--background-color);
+
+  margin-bottom: 50px;
 }
 
 html {
@@ -12,8 +14,11 @@ html {
   margin: 0 auto;
   max-width: 50em;
   margin-bottom: 100px;
-  margin-top: 50px;
+  padding-bottom: 1px;
+  margin-top: 25px;
+  /* border: 1px solid; */
 }
+
 body {
   margin: 0;
   font-family: "Inconsolata";
