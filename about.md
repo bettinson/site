@@ -4,7 +4,7 @@ title: Hi, I'm Matt Bettinson.
 permalink: /about/
 ---
 
-I'm a Canadian developer working at [Rietta](https://rietta.com/) writing Ruby on Rails. My app [PicText](https://github.com/bettinson/pic-text) was on Apple's App Store. I wrote the app the Brooklyn Nets use to plan courtside plays. I like to write code and words, make music, take photos.
+I'm a Canadian software engineer working at [Connected](https://www.connected.io/). My app [PicText](https://github.com/bettinson/pic-text) was on Apple's App Store. I wrote the app the Brooklyn Nets use to plan courtside plays. I like to write code and words, make music, take photos.
 
 You can mostly find me on [Github](http://github.com/bettinson). Get in touch via [email](mailto:mattbettinson@gmail.com).
 
@@ -13,9 +13,21 @@ BA - General Computing Queen’s University (2014-2017)
 
 ## Work experience
 
-### Developer at Rietta, Inc - July 2018 - Present
+### Software Engineer at Connected, August 2019 - Present
 
-- Rails developer 
+Web Software Engineer
+- Executed large scale refactor of client’s Ruby On Rails application to add support for french language translation.
+- Rapidly prototyped application to view DXF files for client. Application could manipulate DXF elements and export the manipulated canvas to JSON.
+- Lead development team of internal dashboard tool, mentoring intern developers and contributing to the codebase in Go and React. Deployed application on internal server with Docker.
+
+### Developer at Rietta, Inc - July 2018 - July 2019
+
+Ruby on Rails developer specializing in secure agile full stack web application development.
+- Wrote conversion task to OCR PDF files stored in AWS and indexed them in Elasticsearch.
+- Maintained and extended web application used internally by Georgia State Lawyers for the coordination of legal cases
+and internal documents.
+- Assumed lead developer role to complete client effort using code reviews and agile methodologies to finalize project.
+- Implemented token expiration functionality on the open-sourced devise-2fa gem: [github.com/williamatodd/devise-2fa](github.com/williamatodd/devise-2fa)
 
 ### Developer intern at H&L Digital NYC - March 2018 - July 2018
 - Worked on whiteboard application for the Brooklyn nets
