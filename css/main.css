@@ -5,7 +5,8 @@
 .wrapper {
   color: var(--color);
   background-color: var(--background-color);
-
+  margin: 0 auto;
+  max-width: 50em;
   margin-bottom: 50px;
 }
 
@@ -20,7 +21,7 @@ html {
 }
 
 body {
-  margin: 0;
+  /* margin: 0; */
   font-family: "Inconsolata";
   height: 100%;
   margin-bottom: 100px;
