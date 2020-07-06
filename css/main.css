@@ -10,7 +10,8 @@
   margin-bottom: 50px;
 }
 a {
-  color: rgb(80, 98, 255);
+  color: rgb(46, 67, 255);
+  /* background-color: white;  */
 }
 html {
   height: 100%;
