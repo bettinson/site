@@ -28,13 +28,13 @@
     <script>
         // If `prefers-color-scheme` is not supported, fall back to light mode.
         // In this case, light.css will be downloaded with `highest` priority.
-        // if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
-        //   document.documentElement.style.display = 'none';
-        //   document.head.insertAdjacentHTML(
-        //       'beforeend',
-        //       '<link rel="stylesheet" href="{{ site.baseurl }}/css/light.css" onload="document.documentElement.style.display = \'\'">'
-        //   );
-        // }
+        if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
+          document.documentElement.style.display = 'none';
+          document.head.insertAdjacentHTML(
+              'beforeend',
+              '<link rel="stylesheet" href="{{ site.baseurl }}/css/light.css" onload="document.documentElement.style.display = \'\'">'
+          );
+        }
       </script>
       <!--
         Conditionally either load the light or the dark stylesheet. The matching file
@@ -43,10 +43,10 @@
         query is unknown and the files are downloaded with `lowest` priority (but
         above I already force `highest` priority for my default light experience).
       -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/dark.css" media="(prefers-color-scheme: dark)">
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/light.css" media="(prefers-color-scheme: light)">
+    <!-- <link rel="stylesheet" href="{{ site.baseurl }}/css/dark.css" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/light.css" media="(prefers-color-scheme: light)"> -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    
+
     {% if site.favicon %}
         <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
         <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
