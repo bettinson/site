@@ -1,12 +1,12 @@
 ---
 layout: post
-# date: 2020-07-13 14:30:00 -0500
+date: 2020-07-13 1:30:00 -0500
 title: Generating Melodies With Markov Chains In Ruby
 ---
 
 Let's write some code to generate melodies with Markov Chains. 
 
-## Whats a Markov Chain?
+## What's a Markov Chain?
 
 A Markov Chain is essentially a finite state machine that we can get to generate output based probability from the previous input. It's probably one of simplest generative systems. It's especially fun to use for things like generating words from gigantic inputs like a Shakespeare play.
 
