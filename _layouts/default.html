@@ -112,7 +112,7 @@
                 {% endif %}
             </div>
     </div>
-    <!-- {% if site.tracking_id %} -->
+    {% if site.tracking_id %}
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125401704-1"></script>
         <script>
@@ -122,17 +122,7 @@
 
         gtag('config', 'UA-125401704-1');
         </script>
-    <!-- {% endif %} -->
+    {% endif %}
 </body>
-<h1>Latest Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
 <footer>
 </footer>
