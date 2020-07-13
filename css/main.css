@@ -13,6 +13,21 @@ a {
   color: rgb(46, 67, 255);
   /* background-color: white;  */
 }
+
+code {
+  /* background-color: #eee; */
+  border-radius: 30px;
+  font-family: courier, monospace;
+  /* padding: 0 10px; */
+  font-size: 14px;
+  /* max-width: 20em; */
+}
+
+img {
+  max-width: 50em; 
+  width: 100%;
+}
+
 html {
   height: 100%;
   margin: 0 auto;
