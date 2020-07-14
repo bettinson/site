@@ -176,17 +176,23 @@ Here's an example of a generated melody based on the very simplistic inputted MI
  
 ![image](/assets/images/First Draft Melody.png)
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857463757%3Fsecret_token%3Ds-ctn8xNGzqn4&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aethrum" title="Aethrum" target="_blank" style="color: #cccccc; text-decoration: none;">Aethrum</a> · <a href="https://soundcloud.com/aethrum/bad-e3/s-ctn8xNGzqn4" title="Bad E3" target="_blank" style="color: #cccccc; text-decoration: none;">Bad E3</a></div>
+
 Lot's of E3's because of the input!
 
 Let's give it a more varied input and generate.
 
-Input:
+Input (Four Bars):
 
 ![image](/assets/images/More Interesting Melody.png)
 
-Output:
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857465077%3Fsecret_token%3Ds-nNCjCRFRyb7&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aethrum" title="Aethrum" target="_blank" style="color: #cccccc; text-decoration: none;">Aethrum</a> · <a href="https://soundcloud.com/aethrum/better-input/s-nNCjCRFRyb7" title="Better Input" target="_blank" style="color: #cccccc; text-decoration: none;">Better Input</a></div>
+
+Output (Eight Bars):
 
 ![image](/assets/images/More Interesting Output.png)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857465137%3Fsecret_token%3Ds-fZs4PooLKBo&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aethrum" title="Aethrum" target="_blank" style="color: #cccccc; text-decoration: none;">Aethrum</a> · <a href="https://soundcloud.com/aethrum/better-output/s-fZs4PooLKBo" title="Better Output" target="_blank" style="color: #cccccc; text-decoration: none;">Better Output</a></div>
 
 As you can see, there are more notes here because we're outputting quarter notes only with no rests. Also, the Markov Chain got caught on the G note a few more times than probably is sonically pleasing.
 
