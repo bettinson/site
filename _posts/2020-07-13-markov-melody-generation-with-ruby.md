@@ -36,7 +36,7 @@ end
 
 Now we have an array of event objects we can work with. Here's a snippet: 
 
-```ruby
+```
 48: ch 00 on 3c 64
 48: ch 00 off 3c 40
 ```
@@ -117,7 +117,7 @@ end
  
  Which prints out: 
  
- ```ruby
+ ```
 624, 67, 96
 720, 69, 96
 0,   60, 96
