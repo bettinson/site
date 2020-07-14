@@ -204,6 +204,6 @@ It would be fun to expand on this further with a few things:
 * Give notes the concept of velocity
 * More meaningful user input or browser interactivity
 
-Have you done anything interesting with generative music? I'd love to hear from you! Get the source code [here](https://github.com/bettinson/markov_midi) and email me at [mattbettinson@hey.com](mailto:mattbettinson@hey.com) and get the source code [here](https://github.com/bettinson/markov_midi).
+Have you done anything interesting with generative music? I'd love to hear from you! Email me at [mattbettinson@hey.com](mailto:mattbettinson@hey.com). Get the source code [here](https://github.com/bettinson/markov_midi).
 
 Thanks for reading!
