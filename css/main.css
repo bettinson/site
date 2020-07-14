@@ -26,6 +26,8 @@ code {
   /* max-width: 20em; */
 }
 
+pre { white-space: pre; overflow: auto; }
+
 img {
   max-width: 50em; 
   width: 100%;
