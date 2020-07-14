@@ -8,7 +8,7 @@ Let's write some code to generate melodies with Markov Chains.
 
 ## What's a Markov Chain?
 
-A Markov Chain is essentially a finite state machine that we can get to generate output based on probability from previous input. It's probably one of simplest generative systems. It's especially fun to use for things like generating words from gigantic inputs like a Shakespeare play.
+A Markov Chain is essentially a finite state machine that we can get to generate output based on probability from previous input. It's probably one of simplest generative systems. It's especially fun to use for things like generating sentences that sound semi-coherent from gigantic inputs like a [Shakespeare play](https://rpubs.com/malcolmbarrett/shakespeare). 
 
 Let's get an array of notes from a MIDI file with `midilib`. 
 
@@ -178,7 +178,7 @@ Here's an example of a generated melody based on the very simplistic inputted MI
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857463757%3Fsecret_token%3Ds-ctn8xNGzqn4&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aethrum" title="Aethrum" target="_blank" style="color: #cccccc; text-decoration: none;">Aethrum</a> · <a href="https://soundcloud.com/aethrum/bad-e3/s-ctn8xNGzqn4" title="Bad E3" target="_blank" style="color: #cccccc; text-decoration: none;">Bad E3</a></div>
 
-Lot's of E3's because of the input!
+Lots of E3's because of the input!
 
 Let's give it a more varied input and generate.
 
@@ -194,14 +194,14 @@ Output (Eight Bars):
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857465137%3Fsecret_token%3Ds-fZs4PooLKBo&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aethrum" title="Aethrum" target="_blank" style="color: #cccccc; text-decoration: none;">Aethrum</a> · <a href="https://soundcloud.com/aethrum/better-output/s-fZs4PooLKBo" title="Better Output" target="_blank" style="color: #cccccc; text-decoration: none;">Better Output</a></div>
 
-As you can see, there are more notes here because we're outputting quarter notes only with no rests. Also, the Markov Chain got caught on the G note a few more times than probably is sonically pleasing.
+As you can see, there are more notes here because we're outputting quarter notes only with no rests. Looks like the Markov Chain got caught on the G note a few more times than probably is sonically pleasing.
 
-In the future, I would like to give this the concept of rests, as well as chords. This is much more applicable to melodies than it is to song structure or a chord progression.
-
-It would be fun to expand on this further with a few things:
+This is code is much more applicable to melodies than it is to a song structure or a chord progression. It would be fun to expand on this further with a few things:
 
 * Give generator the concept of rests
 * Give notes the concept of velocity
+* Chords
+* Octave awareness (for chord inversions)
 * More meaningful user input or browser interactivity
 
 Have you done anything interesting with generative music? I'd love to hear from you! Email me at [mattbettinson@hey.com](mailto:mattbettinson@hey.com). Get the source code [here](https://github.com/bettinson/markov_midi).
