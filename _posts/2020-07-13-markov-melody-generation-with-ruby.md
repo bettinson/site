@@ -13,7 +13,6 @@ A Markov Chain is essentially a finite state machine that we can get to generate
 Let's get an array of notes from a MIDI file with `midilib`. 
 
 ```ruby
-
 require 'midilib'
 require 'midilib/io/seqreader'
 
