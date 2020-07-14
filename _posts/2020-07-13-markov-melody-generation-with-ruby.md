@@ -196,6 +196,8 @@ Output (Eight Bars):
 
 As you can see, there are more notes here because we're outputting quarter notes only with no rests. Looks like the Markov Chain got caught on the G note a few more times than probably is sonically pleasing.
 
+
+
 This is code is much more applicable to melodies than it is to a song structure or a chord progression. It would be fun to expand on this further with a few things:
 
 * Give generator the concept of rests
@@ -203,6 +205,8 @@ This is code is much more applicable to melodies than it is to a song structure 
 * Chords
 * Octave awareness (for chord inversions)
 * More meaningful user input or browser interactivity
+
+I like this because it allows me to sort of jam with the computer. I can play a melody, and then hear various variations close to its style outputted by the code. From there, I can tweak it and feed it back into the program to get something more interesting. Collaborating with probability!
 
 Have you done anything interesting with generative music? I'd love to hear from you! Email me at [mattbettinson@hey.com](mailto:mattbettinson@hey.com). Get the source code [here](https://github.com/bettinson/markov_midi).
 
