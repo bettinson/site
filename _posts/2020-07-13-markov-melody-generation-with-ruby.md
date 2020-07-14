@@ -8,7 +8,7 @@ Let's write some code to generate melodies with Markov Chains.
 
 ## What's a Markov Chain?
 
-A Markov Chain is essentially a finite state machine that we can get to generate output based probability from the previous input. It's probably one of simplest generative systems. It's especially fun to use for things like generating words from gigantic inputs like a Shakespeare play.
+A Markov Chain is essentially a finite state machine that we can get to generate output based on probability from previous input. It's probably one of simplest generative systems. It's especially fun to use for things like generating words from gigantic inputs like a Shakespeare play.
 
 Let's get an array of notes from a MIDI file with `midilib`. 
 
@@ -34,7 +34,7 @@ events = seq.map do |track|
 end
 ```
 
-Now we have an array of note objects we can work with. Here's a snippet: 
+Now we have an array of event objects we can work with. Here's a snippet: 
 
 ```ruby
 48: ch 00 on 3c 64
