@@ -178,7 +178,7 @@ Here's an example of a generated melody based on the very simplistic inputted MI
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857463757%3Fsecret_token%3Ds-ctn8xNGzqn4&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/aethrum" title="Aethrum" target="_blank" style="color: #cccccc; text-decoration: none;">Aethrum</a> · <a href="https://soundcloud.com/aethrum/bad-e3/s-ctn8xNGzqn4" title="Bad E3" target="_blank" style="color: #cccccc; text-decoration: none;">Bad E3</a></div>
 
-Lots of E3's because of the input!
+Lots of E3s because of the input!
 
 Let's give it a more varied input and generate.
 
@@ -206,7 +206,7 @@ This is code is much more applicable to melodies than it is to a song structure 
 * Octave awareness (for chord inversions)
 * More meaningful user input or browser interactivity
 
-I like this because it allows me to sort of jam with the computer. I can play a melody, and then hear various variations close to its style outputted by the code. From there, I can tweak it and feed it back into the program to get something more interesting. Collaborating with probability!
+I like this because it allows me to sort of jam with the computer. I can play a melody, and then hear various variations close to its style outputted by the code. From there, I can tweak it and feed it back into the program to get something more interesting. 
 
 Have you done anything interesting with generative music? I'd love to hear from you! Email me at [mattbettinson@hey.com](mailto:mattbettinson@hey.com). Get the source code [here](https://github.com/bettinson/markov_midi).
 
