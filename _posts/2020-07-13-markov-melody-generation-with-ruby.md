@@ -207,6 +207,6 @@ This is code is much more applicable to melodies than it is to a song structure 
 
 I like this because it allows me to sort of jam with the computer. I can play a melody, and then hear various variations close to its style outputted by the code. From there, I can tweak it and feed it back into the program to get something more interesting. 
 
-Have you done anything interesting with generative music? I'd love to hear from you! Email me at [mattbettinson@hey.com](mailto:mattbettinson@hey.com). Get the source code [here](https://github.com/bettinson/markov_midi).
+Have you done anything interesting with generative music? I'd love to hear from you! Email me at [mattbettinson@gmail.com](mailto:mattbettinson@gmail.com). Get the source code [here](https://github.com/bettinson/markov_midi).
 
 Thanks for reading!
