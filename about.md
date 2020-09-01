@@ -4,7 +4,7 @@ title: Hi, I'm Matt Bettinson.
 permalink: /about/
 ---
 
-I'm a Canadian software engineer working at [Connected](https://www.connected.io/). My app [PicText](https://github.com/bettinson/pic-text) was on Apple's App Store. I wrote the app the Brooklyn Nets use to plan courtside plays. I like to write code and words, make music, take photos.
+I'm a Canadian software engineer working at [Shopify](https://www.shopify.com/) My app [PicText](https://github.com/bettinson/pic-text) was on Apple's App Store. I wrote the app the Brooklyn Nets use to plan courtside plays. I like to write code and words, make music, take photos.
 
 You can mostly find me on [Github](http://github.com/bettinson). Get in touch via [email](mailto:mattbettinson@gmail.com).
 
@@ -13,7 +13,11 @@ BA - General Computing Queen’s University (2014-2017)
 
 ## Work experience
 
-### Software Engineer at Connected, August 2019 - Present
+### Software Developer at Shopify, August 2020 - Present
+
+- Working on support technologies.
+
+### Software Engineer at Connected, August 2019 - August 2020
 
 Web Software Engineer
 - Executed large scale refactor of client’s Ruby On Rails application to add support for french language translation.
